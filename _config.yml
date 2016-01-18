@@ -1,0 +1,28 @@
+name: Gary K. Jackson
+favicon: null
+layout_spectrum: 0.870557909598574
+typography_spectrum: 0.7282291573937982
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.11109423660673201
+  lightness: 0.04069882957264781
+  saturation: 0.6541945796925575
+  rhythmicContrast: 0.02636755956336856
+purpose: []
