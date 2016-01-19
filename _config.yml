@@ -1,7 +1,7 @@
 name: Gary K. Jackson
 favicon: null
 layout_spectrum: 0.47741
-typography_spectrum: 0.57674
+typography_spectrum: 0.52948
 title: Gary K. Jackson - Graphic Design
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.375
+  brandStrength: 0.5625
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
